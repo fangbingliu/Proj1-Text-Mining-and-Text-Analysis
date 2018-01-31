@@ -1,9 +1,11 @@
 ---
-title: What Did The Presidents Say At Their Inauguration? Does Trump's Speech Inferior To Others?
+title: What Did The Presidents Say At Their Inauguration? Does Trump's Speech Inferior
+  To Others?
 author: "Fangbing Liu (fl2476)"
 date: "2018/01/31"
 output:
-  html_notebook
+  html_document: default
+  html_notebook: default
 ---
 -------
 
